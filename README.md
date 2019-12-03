@@ -1,6 +1,6 @@
 # UpSet
 
-Trying to use [upset](https://github.com/VCG/upset) (thank you :-) !) as an embedable episphere component.
+Trying to use [upset](http://caleydo.org/tools/upset) (thank you :-) !) as an embedable episphere component.
 ___
 # Original readme:
 
